@@ -1,0 +1,5 @@
+Recibo: 
+Empresa: Assert Sistemas
+Cliente: Marcos Agnoletto
+Valor: 1400.0
+
